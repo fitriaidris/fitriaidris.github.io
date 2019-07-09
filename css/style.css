@@ -1,0 +1,111 @@
+/*Start Body*/
+.body {
+    background-color:#e5e5e5
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    padding: 0;
+}
+/*End Body*/
+/*Start Debug*/
+.bg-gold {
+    background-color: #d4af37;
+}
+/*End Debug*/
+
+/*Start Container*/
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+.container-full{
+    margin: 20px auto;
+    overflow: auto;
+    width: 100%;
+    text-align: left;
+}
+.poto{
+    background-image: url(indo.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+/*End Container*/
+
+/*Start Logo*/
+.logo{
+    text-align: center;
+}
+/*End Logo*/
+
+/*Start Menu-primer*/
+.menu-primer ul{ 
+    background-color:none;
+    border-radius: 5px;
+}
+.menu-primer li{
+    border-right: 1px solid #e5e5e5;
+    display: inline-block;
+}
+.menu-primer a{
+    color: #d4af37;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 70px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.menu-primer a:hover{
+    background-color: #d4af37;
+    color: #e5e5e5;
+    text-decoration: underline;
+}
+.menu-primer .activ{
+    background-color:none;
+    color: #d4af37;
+}
+/*End Menu-primer*/
+
+/*Start Heading*/
+h1, h2, h3, h4, h5, h6{
+    font-weight: 500;
+    letter-spacing: none;
+    font-style: normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 35px;
+    font-style: bolt;
+}
+h2{
+    font-size: 25px;
+    font-style: normal;
+}
+h3{
+    font-size: 20px;
+    font-style: normal;
+}
+h4{
+    font-size: 18px;
+    font-style: normal;
+}
+h5{
+    font-size: 16px;
+    font-style: normal;
+}
+h6{
+    font-size: 14px;
+    font-style: normal;
+}
+/*End Heading*/
+
+/*Start Poto*/
+.poto{
+    background-image: url(indo.jpg);
+    background-size: 100%;
+    height: 500px;
+} 
+/*End Poto*/
+
+/* Start Box*/
+
+/* End Box*/
